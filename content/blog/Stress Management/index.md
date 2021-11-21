@@ -1,3 +1,9 @@
+---
+title: Stress Management Techniques
+date: "2021-11-21T17:43:00.000Z"
+description: "How To Manage Stress When You Have No Choice But To Face It"
+---
+
 # Stress Management Techniques: How To Manage Stress When You Have No Choice But To Face It
 
 Stress is a part of life. When we&#39;re stressed, we feel anxious and tense. It can be hard to combat these feelings, but it&#39;s possible to do so with stress management techniques. One important thing to remember is that we all react differently to stress. What might help one person may not work for someone else—some people might like deep breathing exercises while others might like meditating. Here are some tips on how you can manage your stress levels when you have no choice but to face them
