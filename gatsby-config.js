@@ -3,7 +3,7 @@ module.exports = {
     title: `Jian Sun's Blog`,
     author: {
       name: `Jian Sun`,
-      summary: `Student, programmer and aspiring entrepreneur headquartered in beautiful Montreal. From the East Coast.`,
+      summary: `- Student, programmer and aspiring entrepreneur headquartered in beautiful Montreal. From the Canadian East Coast.`,
     },
     description: `Jian Sun's Personal Blog`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
