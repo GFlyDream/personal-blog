@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Jian Sun's Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Jian Sun`,
+      summary: `Student, programmer and aspiring entrepreneur headquartered in beautiful Montreal. From the East Coast.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Jian Sun's Personal Blog`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `gfdream`,
     },
   },
   plugins: [
